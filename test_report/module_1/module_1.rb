@@ -66,7 +66,8 @@ for m in 0...array_length
             end
           end
         end
-      end    end
+      end
+    end
     
     if colum== 2
       for n in 2...ods_limit
@@ -108,4 +109,3 @@ for m in 0...array_length
 end
 
 file_out.puts "</body>"
-puts "ok"
